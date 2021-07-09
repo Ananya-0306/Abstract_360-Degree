@@ -4,11 +4,10 @@ A Fractal is a curve or geometrical figure, each part of which has the same stat
 This is a code to create an abstract 360-degree Fractal tree pattern (A fractal tree is known as a tree which can be created by recursively symmetrical branching) using recursion and Python Turtle Graphics.
 
 Result
-Result
+    <img src="https://github.com/Ananya-0306/Abstract_360-Degree/blob/main/RESULT.jpg" alt="Ananya chatterjee is here" />
 
 Contributors
 Ananya Chatterjee ananyachatterjee495@gmail.com
-License & Copyright
-© ananyaChateerjee
-
-Licensed under the MIT License.
+License & Copyright </br>
+**© ananyaChateerjee**
+Licensed under the  EPL-2.0 License
